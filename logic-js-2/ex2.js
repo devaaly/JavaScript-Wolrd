@@ -12,7 +12,7 @@ switch (userOp) {
     case "alcohol", "Alcohol":
         let valueA = prompt("What value do you want?");
         let valueLA = (valueA / 3);
-        console.log("Value supplied: R$" + valorA);
+        console.log("Value supplied : R$" + valorA);
         console.log("Quantity of liters: " + valueLA + "L");
         break;
 
